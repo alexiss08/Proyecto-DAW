@@ -7,7 +7,7 @@ document.write("        <h1><a href='index.html' id='logo'>IDS-Solutions</a></h1
 document.write("        <!-- Nav -->");
 document.write("        <nav id='nav'>");
 document.write("            <ul>");
-document.write("                <li class='current_page_item'><a href='index.html'>Inicio</a></li>");
+document.write("                <li class='current_page_item'><a href='../index.html'>Inicio</a></li>");
 document.write("                <!-- Ocultando menu desplegable");
 document.write("                <li>");
 document.write("                    <a href='#'>Dropdown</a>");
